@@ -1,0 +1,9 @@
+{
+  "name": "Remix Infinite Heroes",
+  "description": "Localized and personalized comic book generator",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
